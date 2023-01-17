@@ -8,6 +8,5 @@ btn1.addEventListener("click",()=>{
 })
 
 btnClose.addEventListener("click",()=>{
-   
     modal.classList.add("hidden");
 })
